@@ -32,6 +32,17 @@ Assurez-vous d'avoir Python 3.8+ installé. Puis exécutez :
 pip install -r requirements.txt
 ```
 ---
+---
+### 📦 Extraction du modèle YOLO
+Avant de lancer l'application, il faut extraire le fichier best.rar :
+
+Allez dans le dossier backend/model/ :
+```bash
+cd backend/model/
+```
+Extrayez le fichier best.rar
+Vérifiez que best.pt est bien extrait dans backend/model/
+---
 ### 🔧 Utilisation
 1️⃣ Lancer le backend (FastAPI)
 Depuis le dossier backend/, exécutez :
