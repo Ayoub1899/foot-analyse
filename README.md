@@ -41,6 +41,7 @@ Allez dans le dossier backend/model/ :
 cd backend/model/
 ```
 Extrayez le fichier best.rar
+
 Vérifiez que best.pt est bien extrait dans backend/model/
 ---
 ### 🔧 Utilisation
